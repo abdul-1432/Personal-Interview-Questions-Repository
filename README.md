@@ -20,7 +20,7 @@ Feel free to explore each question category, and don't forget to tailor your res
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/interview-questions.git
+   git clone https://github.com/abdul-1432/Personal-Interview-Questions-Repository
    ```
 
 2. **Navigate to the Question of Interest:**
